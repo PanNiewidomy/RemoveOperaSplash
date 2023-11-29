@@ -41,4 +41,7 @@ Please use this script responsibly and ensure that you have the necessary permis
 
 ## RUN .EXE
 
-Ensure that you have Opera running, then run the 'opera.exe' file. The 'opera_gx_splash.exe' file will be deleted, and in case of any issues, you will receive the message 'Opera folder not found'.
+1. Download build folder.
+2. Ensure that you have Opera running.
+3. Run the 'opera.exe' file. 
+4. The 'opera_gx_splash.exe' file will be deleted, and in case of any issues, you will receive the message 'Opera folder not found'.
